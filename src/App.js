@@ -1,7 +1,8 @@
-import RegistroEmpresa from "./RegistroEmpresa";
+import React from 'react';
+import LandingPage from './LandingPage';
 
 function App() {
-  return <RegistroEmpresa />;
+  return <LandingPage />;
 }
 
 export default App;
